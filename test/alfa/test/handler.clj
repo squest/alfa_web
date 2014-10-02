@@ -1,3 +1,6 @@
 (ns alfa.test.test
-    (:require [clojure.test :refer :all]))
+    (:require [testquest.core :refer :all]))
 
+(testing "1. First test"
+  "Jojon bersama dengan dia"
+  (str "Jojon" " bersama dengan dia"))

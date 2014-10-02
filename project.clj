@@ -8,6 +8,7 @@
                  [noir-exception "0.2.2"]
                  [environ "1.0.0"]
                  [clj-time "0.8.0"]
+                 [zenedu/testquest "0.1.0"]
                  [im.chit/cronj "1.4.2"]
                  [com.taoensso/timbre "3.3.0"]
                  [prone "0.6.0"]
